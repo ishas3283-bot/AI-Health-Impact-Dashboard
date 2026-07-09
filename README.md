@@ -70,5 +70,5 @@ Include trend analysis and forecasting.
 
 Connect the dashboard to a SQL database instead of Excel.
 
-**Dashboard Preview**: https://github.com/ishas3283-bot/AI-Health-Impact-Dashboard/blob/main/AI%20Impact%20On%20Health%20.png
+![Dashboard Preview](https://github.com/ishas3283-bot/AI-Health-Impact-Dashboard/blob/main/AI%20Impact%20On%20Health%20.png)
 
