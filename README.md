@@ -1,4 +1,4 @@
-# AI-Health-Impact-Dashboard
+# AI Health Impact Dashboard
 # Project Title/ Headline: 
 
 As building my first project on AI impact on health dashboard gives me an opportunity to present my view and insights over usage of AI and the related correlation on Health. 
